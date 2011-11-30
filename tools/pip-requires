@@ -1,0 +1,8 @@
+splinter
+
+argparse
+nose
+pep8>=0.5.0
+pika
+pylint==0.19
+unittest2

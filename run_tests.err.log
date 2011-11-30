@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "run_tests.py", line 11, in <module>
+    from nose import config
+ImportError: No module named nose

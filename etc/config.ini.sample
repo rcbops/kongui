@@ -1,0 +1,4 @@
+[dash]
+host=localhost
+admin_user=username
+admin_pass=password
